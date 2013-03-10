@@ -1,0 +1,46 @@
+#Philosophy of Mind
+
+<p>This project tacitly assumes <b>functionalism</b>, the philosophical
+(<i>i.e.</i> untestable by any presently known means) claim that if one has
+reproduced with a sufficient level of accuracy the computational function of a
+mind, then one has, in fact, reproduced that mind.<footnote>*<span>Note that
+this is not a claim about the <i>possibility</i> of reproducing a mind's
+computational function to a given level of accuracy; that claim is testable,
+and, indeed, <span class="nemaload">NEMALOAD</span> aims to test exactly such a
+claim for a limited class of minds.</span></footnote> Alternative philosophical
+positions include (but are not limited to): <ul>
+
+<li><b>Cartesian dualism</b>, which identifies the mind with a
+supernatural<footnote>*<span>meaning <b>not subject to natural law</b>.
+Functionalism is often criticised as dualist for its invocation of abstract
+computational space, but the use of advanced mathematics to reason about
+natural law has strong scientific precedent, and should not be construed as
+mysticism.</footnote> entity</li>
+
+<li><b>property dualism</b>, which holds that the mind can be identified with a
+natural process, but that this process depends upon one or more currently
+unknown natural laws</li>
+
+<li><b>mind-brain identity theory</b>, which identifies the mind with (some level of
+continuity of) the physical substance that embodies it</li>
+
+<li><b>behaviorism</b>, which identifies the mind with its pattern of
+interactions with the environment<footnote>*<span>The difference between
+behaviorism and functionalism is very subtle.  A theoretical &ldquo;perfect
+copy&rdquo; of a mind's pattern of interactions with its environment is
+identical to a &ldquo;perfect copy&rdquo; of that mind's computational
+function. However, these approaches differ in their treatment of inaccuracies,
+which are an important fact about reality.  Functionalism suggests that there
+are important &ldquo;hidden variables&rdquo; (that is, internal states) and
+that a simulation has started to diverge from an original mind when these
+hidden variables go significantly wrong (even if simulated behavior remains
+indistinguishable from original behavior under the testing conditions). In this
+sense, functionalism imposes stronger conditions on uploading, not only because
+it demands knowledge of hidden variables, but because it demands knowledge of
+<i>which</i> hidden variables are &ldquo;important&rdquo;. Functionalist dogma
+has little to say about the definition of importance in this context; one hopes
+that experiment can shed some light.</span></footnote></li>
+
+</ul>
+</p>
+
